@@ -14,3 +14,4 @@ class Dado:
     
     def lanzar(self):
         return self.rnd.randint(1, self.caras)
+
